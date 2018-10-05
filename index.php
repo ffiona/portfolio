@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Creative - Bootstrap Portfolio Theme by Bootstrapious.com</title>
+  <title>Евгения Калинина</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="all,follow">
@@ -27,7 +27,7 @@
         <!--   *** SIDEBAR ***-->
         <div id="sidebar" class="col-md-4 col-lg-3 sidebar-offcanvas">
           <div class="sidebar-content">
-            <h1 class="sidebar-heading"> <a href="index.html">Евгения Калинина</a></h1>
+            <h1 class="sidebar-heading"> <a href="index.php">Евгения Калинина</a></h1>
             <p class="sidebar-p">Здесь представлены сайты, для которых я делала верстку, анимацию и фронтовую часть.</p>
             <p class="sidebar-p">В связи с тем, что всё это коммерческие проекты для заказчиков компании, то я не могу выкладывать исходный код. Поэтому я даю ссылку на текущие рабочие версии сайтов. Код может отличаться от первоначального, потому что большинство сайтов изменяется отделом поддержки.</p>
             <ul class="sidebar-menu">
@@ -49,7 +49,7 @@
         <div class="col-md-8 col-lg-9 content-column">
           <div class="small-navbar d-flex d-md-none">
             <button type="button" data-toggle="offcanvas" class="btn btn-outline-primary"> <i class="fa fa-align-left mr-2"></i>Инфо</button>
-            <h1 class="small-navbar-heading"> <a href="index.html">Евгения Калинина</a></h1>
+            <h1 class="small-navbar-heading"> <a href="index.php">Евгения Калинина</a></h1>
           </div>
           <div class="grid row">
             <div class="col-md-6 col-lg-6 grid-item">
